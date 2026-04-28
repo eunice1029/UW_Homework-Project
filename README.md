@@ -1,4 +1,4 @@
-# UW_Homework-Project
+# UW Homeworks and Projects
 
 ### AMATH 481: Scientific Computing 
 Numerical calculations and techniques of differentical equations that solves complex real-life time problems. 
